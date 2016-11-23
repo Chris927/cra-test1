@@ -3,8 +3,9 @@ import React from 'react'
 export default () => {
   const items = [1, 2, 5, 9, 13]
 
-  return (<ul>
-    {items.map(item => <li key={item}>{item}</li>)}
-  </ul>)
-  
+  return (<p>
+    Nothing to do here,
+    maybe <a href="https://reddit.com">Try this</a>.
+    </p>)
+
 }
