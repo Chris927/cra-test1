@@ -2,7 +2,7 @@
   "name": "create-react-app-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cra-test1.uber5.com/cra-test1",
+  "homepage": "http://cra-test1.uber5.com/cra-test1",
   "devDependencies": {
     "gh-pages": "0.12.0",
     "react-scripts": "0.7.0"
